@@ -3,8 +3,6 @@
 % Description:
 % * White-Box modelling to test Lateral Vehicle Dynamics of Autonomous test Vehicle
 % * MATALAB code represents an elementary 2DOF Bicycle model of an automobile which takes into account - Yaw & Lateral speed.
-% 
-%
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 %% Model Parameters
