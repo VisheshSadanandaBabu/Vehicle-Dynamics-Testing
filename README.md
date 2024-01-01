@@ -8,4 +8,4 @@ A White Box Test method looks at the code and internal structure of a system to 
 * "InputSA.xlsx" : Excel file containing values of Steering Angles of the test vehicle.
 * "Inputspeed.xlsx" : Excel file containing values of Speed of the test vehicle.
 * "OrgYawRate.xlsx" : Excel file containing measured values of Yaw Rate of the test vehicle.
-* "LatDynTest.m" : MATLAB Code implementing White-Box Test Method on Lateral Vehcile Dynamics.
+* "LatDynTest.m" : MATLAB Code implementing White-Box Test Method on Lateral Vehicle Dynamics.
