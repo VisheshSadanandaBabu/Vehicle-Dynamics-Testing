@@ -1,4 +1,4 @@
-## Vehicle-Dynamics-Testing: Lateral Motion
+# Vehicle-Dynamics-Testing: Lateral Motion
 This repository contains the MATLAB code required to simulate and study the Lateral Vehicle Dynamics of an Autonomous vehicle using White-Box Test method. A CAN-Bus data file containing experimental data of a test-driven autonomous vehicle was used to simulate these results. A 2 DOF Bicycle Model was used to represent the system of the autonomous test vehicle.
 
 # White Box Test (Code-Based Testing / Transparent Testing):
