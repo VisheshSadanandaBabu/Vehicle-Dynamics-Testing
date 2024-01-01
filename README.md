@@ -1,5 +1,5 @@
 # Vehicle-Dynamics-Testing: Lateral Motion
-This repository contains a MATLAB code required to simulate and study the Lateral Vehicle Dynamics of an Autonomous vehicle using White-Box Test method. A CAN-Bus data file containing experimental data of a test-driven autonomous vehicle was used to simulate these results. A 2 DOF Bicycle Model was used to represent the system of the autonomous test vehicle in MATLAB.
+This repository contains a MATLAB code required to simulate and study the Lateral Vehicle Dynamics of an Autonomous vehicle using White-Box Test method. A CAN-Bus data file containing experimental data of a test-driven autonomous vehicle was used to simulate these results. A 2-DOF Bicycle Model was used to represent the system of the autonomous test vehicle in MATLAB.
 
 # White Box Test (Code-Based Testing / Transparent Testing):
 A White Box Test method looks at the code and internal structure of a system to be tested and uses that knowledge to perform the tests. It is most commonly used by software developers during Unit or Integration Testing Phase, to test the internal logic of a system. In order to execute this method, the tester must have extensive knowledge of the technology used to develop the program within the system. In other words, this method is well suited to test the internal algorithm of a system.
